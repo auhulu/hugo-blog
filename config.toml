@@ -1,0 +1,5 @@
+baseURL = 'https://blog.nwnwn.com/'
+languageCode = 'ja'
+title = 'nwnwn'
+theme = 'archie'
+pagerSize = 20
